@@ -4,8 +4,8 @@ permalink:           pretty
 # Setup
 title:               Progress
 tagline:             A responsive blog theme that illustrates reading progress. Suited for continous reading.
-url:                 https://suvozit.github.io/zgopal.card
-baseurl:             /
+url:                 https://suvozit.github.io
+baseurl:             /--broken--progress-for-jekyll
 analytics_id:
 
 # Owner/author information
